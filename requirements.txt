@@ -1,0 +1,9 @@
+dask==2.20.0
+ipython==8.10.0
+matplotlib==3.2.2
+numpy==1.19.4
+opencv_python==4.7.0.68
+pandas==1.0.5
+Pillow==9.4.0
+scikit_learn==1.2.1
+seaborn==0.10.1
